@@ -1,0 +1,1 @@
+say vosjecraft enabled
