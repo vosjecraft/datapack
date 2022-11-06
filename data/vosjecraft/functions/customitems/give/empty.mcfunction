@@ -1,0 +1,1 @@
+give @s minecraft:barrier{CustomModelData:121201}
